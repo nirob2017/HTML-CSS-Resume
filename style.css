@@ -1,1 +1,12 @@
-/* Your CSS styles go here */
+* { margin: 0; padding: 0; }
+body { font: 16px Helvetica, Sans-Serif; 
+line-height: 24px; 
+background:  #FFFFFF; }
+h1, h2, p,from,ul {
+    text-align: center;
+    color: red;
+}
+table {
+    text-align: left;
+    color: #663399;
+}

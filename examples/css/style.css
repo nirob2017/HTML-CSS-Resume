@@ -44,10 +44,10 @@ article>p {
   margin-top: 15px;
   width: 200px;
   height: 200px;
-  background-color: yellow;
+  background-color: #9932CC;
 }
 
 .pseudoClassExample:hover {
-  background-color: orange;
+  background-color: #FF1493;
   color: white;
 }
