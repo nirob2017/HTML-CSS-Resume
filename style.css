@@ -2,9 +2,12 @@
 body { font: 16px Helvetica, Sans-Serif; 
 line-height: 24px; 
 background:  #FFFFFF; }
-h1, h2, p,from,ul {
+h1, h2, p,form {
     text-align: center;
-    color: red;
+    color: Green;
+}
+ul {
+    text-align: center;
 }
 table {
     text-align: left;
